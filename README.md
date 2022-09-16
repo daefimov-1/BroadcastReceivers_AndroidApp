@@ -1,1 +1,2 @@
 # BroadcastReceivers_AndroidStudio
+Pet-projects for working and studying one of the main components of Android: Broadcast receiver. One application sends a broadcast. Another app catches it using broadcastreceiver (and also catches airplane mode changes).
